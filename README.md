@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **DevOps, Cloud, Golang, Open Source, Developer Relations**
 
-- 📫 How to reach me **techsimmi2715@gmail.com**
+- 📫 How to reach me **simmikumariit95@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
